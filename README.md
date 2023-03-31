@@ -12,7 +12,7 @@
 #### 🔖 커밋 메시지 양식
 날짜 / 이름 / 플랫폼-문제명 ex) 2023-03-30 / 김혜진 / PGS-폰켓몬
 - PGS: Programmers
-- BOJ: Backjoon Online Judge
+- BOJ: Baekjoon Online Judge
 - ETC: 기타 플랫폼
 #### 📝 코드 작성 가이드
 가능하면 md 파일로 작성한다.
