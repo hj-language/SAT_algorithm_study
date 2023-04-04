@@ -41,7 +41,7 @@
 - 2단계 문제
   - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
   - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/parts/12117)
+  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
   - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
   - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
   - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
