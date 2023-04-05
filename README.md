@@ -12,7 +12,7 @@
 #### 🔖 커밋 메시지 양식
 날짜 / 이름 / 플랫폼-문제명 ex) 2023-03-30 / 김혜진 / PGS-폰켓몬
 - PGS: Programmers
-- BOJ: Backjoon Online Judge
+- BOJ: Baekjoon Online Judge
 - ETC: 기타 플랫폼
 #### 📝 코드 작성 가이드
 가능하면 md 파일로 작성한다.
@@ -41,7 +41,7 @@
 - 2단계 문제
   - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
   - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/parts/12117)
+  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
   - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
   - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
   - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
