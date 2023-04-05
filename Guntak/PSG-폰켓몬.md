@@ -11,5 +11,4 @@ def solution(nums):
     return answer
 ```
 
-- 시간복잡도/공간복잡도: O(n^2)/O(n)
-- 정확성 만점, 효율성 0점
+- 시간복잡도/공간복잡도: O(n)/O(n)
