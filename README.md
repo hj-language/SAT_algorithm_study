@@ -62,6 +62,16 @@
   - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
   - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 #### 3주차
+- Leetcode 문제
+  - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - [Product of Aray Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - [Missing Number](https://leetcode.com/problems/missing-number/)
+  - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- 프로그래머스 문제
+  - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) 
+  - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+  - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+  - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 #### 4주차
 #### 5주차
 #### 6주차
