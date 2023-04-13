@@ -12,7 +12,7 @@
 #### 🔖 커밋 메시지 양식
 날짜 / 이름 / 플랫폼-문제명 ex) 2023-03-30 / 김혜진 / PGS-폰켓몬
 - PGS: Programmers
-- BOJ: Backjoon Online Judge
+- BOJ: Baekjoon Online Judge
 - ETC: 기타 플랫폼
 #### 📝 코드 작성 가이드
 가능하면 md 파일로 작성한다.
@@ -25,13 +25,20 @@
 - 새로 알게된 부분 : 파이썬 꿀팁. ~~ 새로 알게된 라이브러리. ~~
 
 ### 📌 스터디 일정
-#### 1. 프로그래머스 난이도별 문제 풀이
-기출문제 아닌 것만 풀이합니다.
-| 날짜 | 단계 |
-|--|--|
-|2023-04-06|1, 2단계|
-|2023-05-04|3, 4단계|
-|2023-05-11|5단계|
+| 주차 | 날짜 | 단계 |
+|--|--|--|
+|1주차|2023-04-06|프로그래머스 1, 2단계|
+|2주차|2023-04-13|Zero-base 미니 코테대회 기출문제|
+|3주차|2023-05-04|프로그래머스 3, 4단계|
+|4주차|2023-05-11|프로그래머스 5단계|
+|5주차|2023-05-18|2023 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=37527)|
+|6주차|2023-05-25|2022 KAKAO TECH INTERNSHIP [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236)|
+|7주차|2023-06-01|삼성 SW 역량 테스트 기출 문제 [link](https://www.acmicpc.net/workbook/view/1152)|
+|8주차|2023-06-08|2022 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=25448)|
+
+
+### 📌 주차별 문제
+#### 1주차
 - 1단계 문제
   - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
   - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
@@ -41,16 +48,22 @@
 - 2단계 문제
   - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
   - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/parts/12117)
+  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
   - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
   - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
   - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
-#### 2. 기출문제 풀이
-| 날짜 | 기출 | 문제 link |
-|--|--|--|
-|2023-04-13|Zero-base 미니 코테대회 기출문제||
-|2023-05-18|2023 KAKAO BLIND RECRUITMENT|[link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=37527)|
-|2023-05-25|2022 KAKAO TECH INTERNSHIP|[link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236)|
-|2023-06-01|삼성 SW 역량 테스트 기출 문제|[link](https://www.acmicpc.net/workbook/view/1152)|
-|2023-06-08|2022 KAKAO BLIND RECRUITMENT|[link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=25448)|
+#### 2주차
+- 2단계 문제
+  - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+  - [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)
+  - [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
+  - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+  - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+  - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+#### 3주차
+#### 4주차
+#### 5주차
+#### 6주차
+#### 7주차
+#### 9주차
