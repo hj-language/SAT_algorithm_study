@@ -28,9 +28,9 @@
 | 주차 | 날짜 | 단계 |
 |--|--|--|
 |1주차|2023-04-06|프로그래머스 1, 2단계|
-|2주차|2023-04-13|Zero-base 미니 코테대회 기출문제|
-|3주차|2023-05-04|프로그래머스 3, 4단계|
-|4주차|2023-05-11|프로그래머스 5단계|
+|2주차|2023-04-13|Zero-base 미니 코테대회 기출문제, 프로그래머스 2단계|
+|3주차|2023-05-04|프로그래머스 2, 3단계|
+|4주차|2023-05-11|프로그래머스 3, 4단계|
 |5주차|2023-05-18|2023 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=37527)|
 |6주차|2023-05-25|2022 KAKAO TECH INTERNSHIP [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236)|
 |7주차|2023-06-01|삼성 SW 역량 테스트 기출 문제 [link](https://www.acmicpc.net/workbook/view/1152)|
@@ -62,6 +62,16 @@
   - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
   - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 #### 3주차
+- Leetcode 문제
+  - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - [Product of Aray Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - [Missing Number](https://leetcode.com/problems/missing-number/)
+  - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- 프로그래머스 문제
+  - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) 
+  - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+  - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+  - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 #### 4주차
 #### 5주차
 #### 6주차
