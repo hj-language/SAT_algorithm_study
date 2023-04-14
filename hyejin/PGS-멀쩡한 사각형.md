@@ -11,4 +11,5 @@ def solution(w,h):
     return w*h - (w+h-gcd(w, h))
 ```
 
-- 시간복잡도/공간복잡도: O(1)/O(1)
+- 시간복잡도/공간복잡도: O(log n)/O(1) - n은 min(w, h)
+- gcd 쓰는 것 때문에 log n입니당 .!!
