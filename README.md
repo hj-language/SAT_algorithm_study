@@ -72,6 +72,14 @@
   - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
   - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 #### 4주차
+- 프로그래머스 문제 (2023 KAKAO BLIND RECRUITMENT)
+  - Lv 1. [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+  - Lv 2. [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+  - Lv 2. [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+  - Lv 3. [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+  - Lv 3. [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+  - Lv 3. [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
+  - Lv 4. [1, 2, 3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)
 #### 5주차
 #### 6주차
 #### 7주차
