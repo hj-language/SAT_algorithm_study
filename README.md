@@ -31,9 +31,10 @@
 |2주차|2023-04-13|Zero-base 미니 코테대회 기출문제, 프로그래머스 2단계|
 |3주차|2023-04-20|프로그래머스 2, 3단계|
 |4주차|2023-04-27|2023 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=37527)|
-|5주차|2023-05-04|2022 KAKAO TECH INTERNSHIP [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236)|
-|6주차|2023-05-11|삼성 SW 역량 테스트 기출 문제 [link](https://www.acmicpc.net/workbook/view/1152)|
-|7주차|2023-05-18|2022 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=25448)|
+|5주차|2023-05-04|''|
+|5주차|2023-05-11|2022 KAKAO TECH INTERNSHIP [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236)|
+|6주차|2023-05-18|삼성 SW 역량 테스트 기출 문제 [link](https://www.acmicpc.net/workbook/view/1152)|
+|7주차|2023-05-25|2022 KAKAO BLIND RECRUITMENT [link](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=25448)|
 
 
 ### 📌 주차별 문제
@@ -71,7 +72,7 @@
   - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
   - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
   - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
-#### 4주차
+#### 4, 5주차
 - 프로그래머스 문제 (2023 KAKAO BLIND RECRUITMENT)
   - Lv 1. [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
   - Lv 2. [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
@@ -80,7 +81,6 @@
   - Lv 3. [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
   - Lv 3. [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
   - Lv 4. [1, 2, 3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)
-#### 5주차
 #### 6주차
 #### 7주차
 #### 9주차
