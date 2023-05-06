@@ -80,6 +80,11 @@
   - Lv 2. [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
 #### 6주차
 - Leetcode 문제
+  - [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+  - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+  - [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)
+  - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  - [Powerful Integers](https://leetcode.com/problems/powerful-integers/)
 - 프로그래머스 문제 (2023 KAKAO BLIND RECRUITMENT)
   - Lv 3. [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
   - Lv 3. [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
